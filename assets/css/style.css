@@ -44,3 +44,48 @@ div.itens:hover{
     color: black;
     font-size: 20px;
 }
+a:visited{
+    color: write;
+    text-decoration: none;
+  }
+div.projetos{
+    width: auto;
+    height: 50px;
+    background-color: black;
+    margin: 10px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+div.missão{
+    width: auto;
+    height: 50px;
+    background-color: black;
+    margin: 10px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
+
+div.contatos{
+    width: auto;
+    height: 50px;
+    background-color: black;
+    margin: 10px;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}

@@ -1,3 +1,28 @@
 * {
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
     
+}
+
+div.container {
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+div.itens {
+    width: 100px;
+    height: 50px;
+    background-color: brown;
+    margin: 10px;
 }
